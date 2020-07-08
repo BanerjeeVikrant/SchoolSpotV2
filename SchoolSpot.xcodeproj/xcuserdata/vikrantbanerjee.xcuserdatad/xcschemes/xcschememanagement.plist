@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>SchoolSpot.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C206FBE0219D1D0F0026C804</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C206FBF4219D1D120026C804</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C206FBFF219D1D120026C804</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
